@@ -12,8 +12,7 @@ public class RadioPi extends JFrame {
 
         pnlClock = new ClockPanel();
 
-        pnlNews = new JPanel();
-        pnlNews.add(new JLabel("News"));
+        pnlNews = new NewsPanel("ae277ae39eb84b0eb01efeae417fe724");
 
         pnlWeather = new JPanel();
         pnlWeather.add(new JLabel("Weather"));
