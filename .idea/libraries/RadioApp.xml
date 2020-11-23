@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RadioApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java1/out/artifacts/RadioApp_jar/RadioApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
